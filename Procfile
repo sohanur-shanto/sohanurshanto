@@ -1,0 +1,1 @@
+web: gunicorn sohanur.wsgi --log-file -
